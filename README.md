@@ -4,10 +4,10 @@ Repo này được dịch lại từ [repository](https://github.com/tssovi/grok
 
 
 <hr/>
-<h3 align="center">Object-Oriented Design và UML</h3>
+<h3 align="center">Thiết kế hướng đối tượng và UML</h3>
 <hr/>
 <p align="center">
-    <a href="object-oriented-design-and-uml/object-oriented-basics.md"><b>Kiến thức cơ bản về thiết kế hương đối tượng (OOD)</b></a>
+    <a href="object-oriented-design-and-uml/object-oriented-basics.md"><b>Kiến thức cơ bản về hương đối tượng (OOD)</b></a>
     <br />
     <a href="object-oriented-design-and-uml/object-oriented-analysis-and-design.md"><b>Phân tích và thiết kế hướng đối tượng</b></a>
     <br />
