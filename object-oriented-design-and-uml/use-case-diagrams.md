@@ -11,7 +11,7 @@ Một use case mô tả một đơn vị chức năng được cung cấp bởi 
 Để minh hoạ một use case trên sơ đồ use case, ta vẽ một hình tròn giữa sơ đồ và đặt tên của use case vào giữa hình tròn đó. Để vẽ tác nhân trong sơ đồ, ta vẽ một người qua ở bên trái hoặc bên phải sơ đồ.
 
 <p align="center">
-    <img src="/media-files/use-case-diagram.svg" alt="UML">
+    <img src="../assets/use-case-diagram.svg" alt="UML">
     <br />
     Sơ đồ use-case cho hệ thống đặt hàng điện tử
 </p>

@@ -11,7 +11,7 @@ Lợi ích của UML:
 5. Dễ dàng bàn giao hệ thống cho team mới.
 
 <p align="center">
-    <img src="/media-files/uml.jpeg" alt="UML">
+    <img src="../assets/uml.jpeg" alt="UML">
 </p>
 
 **Các loại sơ đồ UML**: Ở hiện tại UML có khoảng 14 loại sơ đồ. Các sơ đồ này được chia thành hai nhóm là: sơ đồ cấu trúc và sơ đồ hành vi. Đúng như tên gọi sơ đồ cấu trúc mô tả và phân tích cấu trúc của hệ thống hay quá trình, trong khi đó sơ đồ hành vi mô tả các hành vi của hệ thống, tác nhân và các thành phần tạo nên nó.
