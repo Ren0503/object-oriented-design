@@ -18,7 +18,7 @@ Repo này được dịch lại từ [tssovi](https://github.com/tssovi/grokking
     <br />
     <a href="object-oriented-design-and-uml/class-diagram.md"><b>Sơ đồ lớp</b></a>
     <br />
-    <a href="object-oriented-design-and-uml/sequence-diagram.md"><b>Sơ đồ tuần tự</b></a>
+    <a href="object-oriented-design-and-uml/sequence-diagram.md"><b>Sơ đồ trình tự</b></a>
     <br />
     <a href="object-oriented-design-and-uml/activity-diagrams.md"><b>Sơ đồ hoạt động</b></a>
 </p>
