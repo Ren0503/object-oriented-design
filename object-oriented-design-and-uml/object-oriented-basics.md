@@ -1,11 +1,11 @@
 <h1 align="center">Kiến thức cơ bản về hướng đối tượng</h1>
 
-Ta đã biết về lập trình hướng đối tượng (OOP) là một hình mẫu lập trình tập trung vào việc sử dụng các đối tượng để xây dựng ứng dụng, trái ngược với lập trình hướng thủ tục được thiết kế bằng những khối lệnh để quản lý dữ liệu, OOP tổ chức chương trình và gom dữ liệu, hàm và các logic khác vào trong một "đối tượng" chứa.
+Ta đã biết về lập trình hướng đối tượng (OOP) là một hình mẫu lập trình tập trung vào việc sử dụng các đối tượng để xây dựng ứng dụng. Trái ngược với lập trình hướng thủ tục được thiết kế bằng những khối lệnh để quản lý dữ liệu, OOP tổ chức chương trình và gom dữ liệu, hàm và các logic khác vào trong một "đối tượng".
 
 Các khái niệm cơ bản trong OOP:
 
-* **Objects**: đối tượng (object) biểu diễn một thực thể ở thế giới thực và là thành phần cơ bản của OOP. Ví dụ một trang bán hàng điện tử sẽ có các đối tượng như khách hàng, đơn hàng, sản phẩm,...
-* **Class**: lớp (class) là bản mẫu của một đối tượng. Nó là bản mẫu với các định nghĩa các thuộc tính và phương thức cho đối tượng. Ví dụ, trang bán hàng điện tử, đối tượng khác hàng có thuộc tính như địa chỉ, thẻ tín dụng,.. và phương thức là thêm vào giỏ hàng, huỷ đơn,...
+- **Objects**: đối tượng (object) biểu diễn một thực thể ở thế giới thực và là thành phần cơ bản của OOP. Ví dụ một trang bán hàng điện tử sẽ có các đối tượng như khách hàng, đơn hàng, sản phẩm,...
+- **Class**: lớp (class) là bản mẫu của đối tượng. Nó là định nghĩa mẫu với các thuộc tính và phương thức cho đối tượng. Ví dụ, trang bán hàng điện tử, đối tượng khách hàng có thuộc tính như địa chỉ, thẻ tín dụng,.. và phương thức là thêm vào giỏ hàng, huỷ đơn,...
 
 **Code mẫu về lớp và đối tượng**
 
@@ -13,7 +13,6 @@ Các khái niệm cơ bản trong OOP:
 
 ```python
 class ShoppingCart(object):
-
     def __init__(self):
       self.total = 0
       self.items = {}
@@ -65,12 +64,12 @@ Exchange amount: 20
 ``` 
 
 <p align="center">
-    <img src="/media-files/oop-principles.svg" alt="OOP Principles">
+    <img src="../assets/oop-principles.svg" alt="OOP Principles">
 </p>
 
-Trong lập trình OOP có bốn tính chất là tính đóng gói, tính kế thừa, tính đa hình và tính trừu tượng.
+Trong lập trình OOP có bốn tính chất quan trọng là tính đóng gói, tính kế thừa, tính đa hình và tính trừu tượng.
 
-1. **Tính đóng gói:** Đóng gói là phương thức liên kết dữ liệu với nhau và ẩn nó khỏi các truy cập từ bên ngoài. Sau khi đóng gói, mỗi đối tượng sẽ giữ được sự riêng tư cho các trạng thái, các đối tượng khác không thể truy cập trực tiếp đến trạng thái của nó, thay vào đó, chúng có thể truy cập gián tiếp qua các hàm công khai của đối tượng.
+1. **Tính đóng gói:** Đóng gói là phương thức liên kết dữ liệu với nhau và ẩn nó khỏi các truy cập từ bên ngoài. Sau khi đóng gói, mỗi đối tượng sẽ giữ được sự riêng tư cho các trạng thái, các đối tượng khác không thể truy cập trực tiếp đến trạng thái của nó, thay vào đó, chúng phải truy cập gián tiếp qua các hàm công khai của đối tượng.
 
 **Code**
 
@@ -104,7 +103,7 @@ Selling Price: 900
 Selling Price: 1000
 ```
 
-2. **Tính trừu tượng** Tính trừu tượng có thể hiểu là mở rộng tự nhiên của tính đa hình. Có nghĩa là nó ẩn tất cả những dữ liệu có liên quan đến một đối tượng theo thứ tự để giảm độ phức tạp cho hệ thống. Ở những hệ thống lớn, các đối tượng tương tác với nhau, làm cho việc bảo trì rất khó khăn. Tính trừu tượng giúp ẩn các chi tiết triển khai nội bộ của đối tượng và chỉ cung cấp các tính năng có liên quan đến các đối tượng khác.
+2. **Tính trừu tượng** Tính trừu tượng có thể hiểu như là mở rộng của tính đa hình. Có nghĩa là nó ẩn tất cả những dữ liệu có liên quan đến một đối tượng theo trật tự để giảm độ phức tạp cho hệ thống. Ở những hệ thống lớn, các đối tượng tương tác với nhau, làm cho việc bảo trì rất khó khăn. Tính trừu tượng giúp ẩn các chi tiết triển khai nội bộ của đối tượng và chỉ cung cấp các tính năng có liên quan đến các đối tượng khác.
 
 **Code :**
 
@@ -147,7 +146,7 @@ In common method of Parent
 In vary method of Child2
 ```
 
-3. **Tính kế thừa**: là tính năng tạo ra một lớp mới dựa trên đối tượng đã có.
+3. **Tính kế thừa**: là tính năng tạo ra một lớp mới dựa trên lớp đã có.
 
 
 **Code :**

@@ -1,13 +1,14 @@
 <h1 align="center">Python và Thiết kế Hướng đối tượng (OOD)</h1>
 
-Repo này được dịch lại từ [repository](https://github.com/tssovi/grokking-the-object-oriented-design-interview) nhằm giúp mọi người hiểu các khái niệm và kiến thức về thiết kế hướng đối tượng một cách dễ hiểu nhất có thể. Repo sử dụng Python làm ngôn ngữ minh hoạ. 
+Repo này được dịch lại từ [tssovi](https://github.com/tssovi/grokking-the-object-oriented-design-interview) nhằm giúp mọi người hiểu các khái niệm và kiến thức về thiết kế hướng đối tượng một cách dễ hiểu nhất có thể. Repo sử dụng Python làm ngôn ngữ minh hoạ. 
 
+![python](./assets/logo.jpg)
 
 <hr/>
 <h3 align="center">Thiết kế hướng đối tượng và UML</h3>
 <hr/>
 <p align="center">
-    <a href="object-oriented-design-and-uml/object-oriented-basics.md"><b>Kiến thức cơ bản về hương đối tượng (OOD)</b></a>
+    <a href="object-oriented-design-and-uml/object-oriented-basics.md"><b>Kiến thức cơ bản về hướng đối tượng (OOD)</b></a>
     <br />
     <a href="object-oriented-design-and-uml/object-oriented-analysis-and-design.md"><b>Phân tích và thiết kế hướng đối tượng</b></a>
     <br />
@@ -15,7 +16,7 @@ Repo này được dịch lại từ [repository](https://github.com/tssovi/grok
     <br />
     <a href="object-oriented-design-and-uml/use-case-diagrams.md"><b>Sơ đồ Use Case</b></a>
     <br />
-    <a href="object-oriented-design-and-uml/class-diagram.md"><b>Sơ đỒ lớp</b></a>
+    <a href="object-oriented-design-and-uml/class-diagram.md"><b>Sơ đồ lớp</b></a>
     <br />
     <a href="object-oriented-design-and-uml/sequence-diagram.md"><b>Sơ đồ tuần tự</b></a>
     <br />
