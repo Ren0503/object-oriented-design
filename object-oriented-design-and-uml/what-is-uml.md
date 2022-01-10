@@ -30,7 +30,7 @@ Lợi ích của UML:
 
 * Sơ đồ tình huống sử dụng - Use case diagram
 * Sơ đồ hoạt động - Activity diagram
-* Sơ đồ tuần tự - Sequence diagram
+* Sơ đồ trình tự - Sequence diagram
 * Sơ đồ trạng thái - State diagram
 * Sơ đồ giao tiếp - Communication diagram
 * Sơ đồ tương tác - Interaction overview diagram

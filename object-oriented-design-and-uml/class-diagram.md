@@ -32,7 +32,7 @@ Ta có thể biểu thị sự đa dạng của một liên kết bằng cách t
 <p align="center">
     <img src="../assets/class-diagram.png" alt="Class Diagram">
     <br />
-    Sample class diagram for flight reservation system
+    Sơ đồ lớp cho hệ thống đặt chỗ chuyến bay
 </p>
 
 **Aggregation (tổng hợp):** là một kiểu đặc biệt của liên kết sử dụng để mô hình mối quan hệ "whole to its parts". Trong một mối quan hệ này, vòng đời của một lớp PART là độc lập với vòng đời của lớp WHOLE. Nói cách khác, tổng hợp ngụ ý một mối quan hệ nơi các phần tử con có thể tồn tại độc lập với cha. Trong mô hình bên dưới, `Aircraft` có thể không cần đến `Airline`.
