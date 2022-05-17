@@ -86,3 +86,23 @@ Các lớp chính trong hệ thống Stack Overflow:
     <br />
     UML for Stack Overflow
 </p>
+
+### Activity Diagram
+
+**Post a new question:** Any member or moderator can perform this activity. Here are the steps to post a question:
+
+<p align="center">
+    <img src="/media-files/stack-overflow-activity-diagram.svg" alt="Stack Overflow Activity Diagram">
+    <br />
+    Activity Diagram for Stack Overflow
+</p>
+
+### Sequence Diagram
+
+Following is the sequence diagram for creating a new question:
+
+<p align="center">
+    <img src="/media-files/stack-overflow-sequence-diagram.svg" alt="Stack Overflow Sequence Diagram">
+    <br />
+    Sequence Diagram for Stack Overflow
+</p>
