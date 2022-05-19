@@ -37,5 +37,6 @@ class Person(ABC):
 
 class Constants:
     def __init__(self):
-        self.MAX_BOOKS_ISSUED_TO_A_USER = 5
-        self.MAX_LENDING_DAYS = 10
+          self.MAX_BOOKS_ISSUED_TO_A_USER = 5
+          self.MAX_LENDING_DAYS = 10
+

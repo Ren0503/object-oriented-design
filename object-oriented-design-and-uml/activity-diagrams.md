@@ -7,7 +7,7 @@ Biểu đồ hoạt động minh họa bản chất động của một hệ th�
 Sau đây là sơ đồ hoạt động cho người dùng thực hiện mua sắm trực tuyến:
 
 <p align="center">
-    <img src="/media-files/activity-diagrams.svg" alt="Activity Diagram">
+    <img src="../assets/activity-diagrams.svg" alt="Activity Diagram">
     <br />
     Sơ đồ hoạt động cho mua sắm trực tuyến
 </p>

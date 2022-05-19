@@ -1,6 +1,6 @@
 <h1 align="center">Kiến thức cơ bản về hướng đối tượng</h1>
 
-Ta đã biết về lập trình hướng đối tượng (OOP) là một hình mẫu lập trình tập trung vào việc sử dụng các đối tượng để xây dựng ứng dụng. Trái ngược với lập trình hướng thủ tục được thiết kế bằng những khối lệnh để quản lý dữ liệu, OOP tổ chức chương trình và gom dữ liệu, hàm và các logic khác vào trong một "đối tượng".
+Ta đã biết về lập trình hướng đối tượng (OOP) là một hình mẫu lập trình tập trung vào việc sử dụng các đối tượng để xây dựng ứng dụng, trái ngược với lập trình hướng thủ tục được thiết kế bằng những khối lệnh để quản lý dữ liệu, OOP tổ chức chương trình và gom dữ liệu, hàm và các logic khác vào trong một thực thể gọi là **đối tượng**.
 
 Các khái niệm cơ bản trong OOP:
 

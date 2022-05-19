@@ -1,6 +1,6 @@
-<h1 align="center">Python và Thiết kế Hướng đối tượng (OOD)</h1>
+<h1 align="center">Thiết kế Hướng đối tượng (OOD)</h1>
 
-Repo này được dịch lại từ [tssovi](https://github.com/tssovi/grokking-the-object-oriented-design-interview) nhằm giúp mọi người hiểu các khái niệm và kiến thức về thiết kế hướng đối tượng một cách dễ hiểu nhất có thể. Repo sử dụng Python làm ngôn ngữ minh hoạ. 
+Repo này được dịch lại từ [tssovi](https://github.com/tssovi/grokking-the-object-oriented-design-interview) nhằm giúp mọi người hiểu các khái niệm và kiến thức về thiết kế hướng đối tượng một cách dễ hiểu nhất có thể. Repo sử dụng Python và Java làm ngôn ngữ minh hoạ. 
 
 ![python](./assets/logo.jpg)
 
